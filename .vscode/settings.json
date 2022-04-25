@@ -1,5 +1,13 @@
 {
               "workbench.colorCustomizations": {
                             "titleBar.activeBackground": "#22cbb9"
-              }
+              },
+              "spellchecker.ignoreWordsList": [
+                            "java",
+                            "criando",
+                            "Curso",
+                            "Projeto",
+                            "criado",
+                            "teste"
+              ]
 }
